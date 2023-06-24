@@ -1,0 +1,14 @@
+{
+    "name": "Discord_bot",
+    "description": "My project demo bot",
+    "version": "",
+    "main_file": "bot.py",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/Discord_bot",
+    "email": "none",
+    "languages": [
+        "python"
+    ],
+    "actions": {}
+}
