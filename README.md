@@ -1,4 +1,8 @@
 # Discord_bot
+
+>[!warning]
+> This project is now archived
+
 My project demo bot
 
 <img src="https://github.com/0x4248/Discord_bot/blob/main/Documentation/file.png" width=50px><img src="https://github.com/0x4248/Discord_bot/blob/main/Documentation/key.png" width=50px>
